@@ -1,9 +1,9 @@
 # Maison de Rara — Fine Scents
 
-Prototype website e-commerce untuk brand parfum niche **Maison de Rara**, dibuat untuk Tugas Besar mata kuliah **KAIT II** (Administrasi Bisnis, Semester Genap 2025/2026).
+Prototype website e-commerce untuk brand parfum niche **Maison de Rara**, dibuat untuk Tugas Besar mata kuliah **KAIT II** (Administrasi Bisnis 3, Semester Genap 2025/2026).
 
-🔗 **Live Website:** _(isi setelah deploy ke GitHub Pages, contoh: https://username.github.io/maison-de-rara/)_
-🔗 **Repository:** _(isi link repo GitHub kamu)_
+🔗 **Live Website:** _(https://rahmafadila05.github.io/maison-de-rara-RahmaFadilaRamadhani-ABI3/)_
+🔗 **Repository:** _(https://github.com/rahmafadila05/maison-de-rara-RahmaFadilaRamadhani-ABI3)_
 
 ---
 
